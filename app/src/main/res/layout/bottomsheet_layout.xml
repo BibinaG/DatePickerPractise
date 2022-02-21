@@ -10,7 +10,7 @@
     app:behavior_hideable="true"
     app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"
     app:layout_constraintBottom_toBottomOf="parent"
-    tools:context=".BottomSheet">
+    tools:context=".bottomSheet.BottomSheet">
 
     <TextView
         android:id="@+id/tvFilter"

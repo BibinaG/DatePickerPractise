@@ -1,8 +1,10 @@
-package com.aiextech.datepicker
+package com.aiextech.datepicker.bottomSheet
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.aiextech.datepicker.bottomSheet.BottomSheetBehaviour.Companion.collapse
+import com.aiextech.datepicker.bottomSheet.BottomSheetBehaviour.Companion.expand
 import com.aiextech.datepicker.databinding.ActivityBottomSheetBinding
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 
@@ -18,11 +20,12 @@ class BottomSheet : AppCompatActivity() {
         setContentView(binding.root)
         initView()
     }
-    fun initView(){
+    private fun initView(){
         bottomSheet = BottomSheetBehavior.from(binding.root)
+        bottomSheet.collapse()
         binding.btSearchFilter.setOnClickListener {
-
+        bottomSheet.expand()
         }
-
     }
 }
+
