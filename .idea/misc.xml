@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/drawable/bg_cl_drawer.xml" value="0.1265" />
+        <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/activity_bottom_sheet.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/activity_date_picker.xml" value="0.23645833333333333" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/activity_drop_down.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/activity_main2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/bottomsheet_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/datepicker_item.xml" value="0.25052083333333336" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/dropdown_item.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/MSI/DatePicker/app/src/main/res/layout/fragment_one.xml" value="0.10925925925925926" />
